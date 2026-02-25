@@ -1,0 +1,7 @@
+.img {
+    max-width: 100%; /* Membatasi lebar gambar agar responsif */
+    height: auto; /* Menjaga rasio proporsional */
+    display: block; /* Mengubah gambar menjadi elemen block */
+    margin: 0 auto; /* Memusatkan gambar secara horizontal */
+    border-radius: 50%; /* Membuat gambar berbentuk lingkaran */
+  }0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
